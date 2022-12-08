@@ -21,3 +21,5 @@ Using the logs of "normal" business functions to:
 After experiencing a simulated attack your team will analyze their reports and dashboards created on Day 1 to determine whether our defensive choices protected the organization.  
 Fill out a review and analysis form on your findings
 
+https://github.com/anorman318/Project-3-Defensive-Security/blob/main/_Ashley%20Norman_%20Project%203_%20Review%20Questions.pdf
+
